@@ -1,4 +1,4 @@
-,buying,maint,doors,persons,lug_boot,safety,verdict,condprob
+,verdict,buying,maint,doors,persons,lug_boot,safety,condprob
 0,unacc,low,med,4,2,big,low,1.0
 1,acc,low,high,4,more,small,med,1.0
 2,acc,med,high,5more,4,big,med,1.0
